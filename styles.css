@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'pixels';
+    src: url('assets/BACKTO1982.TTF') format('woff2');
+    font-weight: 400;
+    font-weight: normal;
+}
+@font-face{
+    font-family: 'pixels_small';
+    src: url('assets/ARCADECLASSIC.TTF') format('woff2');
+    font-weight: 400;
+    font-weight: normal;
+
+}
+.fontload{
+    visibility:hidden;
+    position: absolute;
+    left: -9999px;
+  }
